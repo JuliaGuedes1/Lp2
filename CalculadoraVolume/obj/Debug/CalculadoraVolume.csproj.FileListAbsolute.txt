@@ -1,9 +1,0 @@
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\bin\Debug\CalculadoraVolume.exe.config
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\bin\Debug\CalculadoraVolume.exe
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\bin\Debug\CalculadoraVolume.pdb
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\obj\Debug\CalculadoraVolume.csprojAssemblyReference.cache
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\obj\Debug\CalculadoraVolume.Form1.resources
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\obj\Debug\CalculadoraVolume.Properties.Resources.resources
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\obj\Debug\CalculadoraVolume.csproj.GenerateResource.cache
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\obj\Debug\CalculadoraVolume.exe
-C:\Users\guede\source\repos\CalculadoraVolume\CalculadoraVolume\obj\Debug\CalculadoraVolume.pdb
