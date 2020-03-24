@@ -1,9 +1,0 @@
-C:\Users\guede\source\repos\Funcionário\Funcionário\obj\Debug\Funcionário.csprojAssemblyReference.cache
-C:\Users\guede\source\repos\Funcionário\Funcionário\obj\Debug\Funcionário.Form1.resources
-C:\Users\guede\source\repos\Funcionário\Funcionário\obj\Debug\Funcionário.Properties.Resources.resources
-C:\Users\guede\source\repos\Funcionário\Funcionário\obj\Debug\Funcionário.csproj.GenerateResource.cache
-C:\Users\guede\source\repos\Funcionário\Funcionário\bin\Debug\Funcionário.exe.config
-C:\Users\guede\source\repos\Funcionário\Funcionário\bin\Debug\Funcionário.exe
-C:\Users\guede\source\repos\Funcionário\Funcionário\bin\Debug\Funcionário.pdb
-C:\Users\guede\source\repos\Funcionário\Funcionário\obj\Debug\Funcionário.exe
-C:\Users\guede\source\repos\Funcionário\Funcionário\obj\Debug\Funcionário.pdb
